@@ -1,0 +1,14 @@
+Colores
+
+Dark
+#000000
+#150050
+#3F0071
+#FB2576
+
+
+Light
+#FAF8F1
+#C0DEFF
+#BA94D1
+#FFCAC8
